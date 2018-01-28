@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\STM32F1",
+    "\\STM32F1\\variants",
+    "\\STM32F1\\variants\\generic_stm32f103z",
+    "\\STM32F1\\variants\\generic_stm32f103z\\board"
+  ],
+  "SelectedNode": "\\STM32F1\\variants\\generic_stm32f103z\\board\\board.h",
+  "PreviewInSolutionExplorer": false
+}
